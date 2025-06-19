@@ -11,9 +11,15 @@ int main(){
         int x = 30;
         cout<<x<<endl;
         {
-            int x = 40; // this will print
+            int x = 40; 
             cout<<x;
         }
     }
     return 0;
 }
+
+/*
+1 function, loops and conditional statement create a new inner scope
+2 the outer scope variable are accessible in the inner scope but vise versa is not possible 
+3 we can create a new scope by using a pair of curly brackets
+*/
