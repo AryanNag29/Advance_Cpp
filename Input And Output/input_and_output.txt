@@ -1,0 +1,10 @@
+Stream in Cpp
+
+stream is an abstraction
+
+I/P -> sequence of bytes from keyboard , files etc. -> Stream(istream,ifstream)
+->Process(A program under execution)->Stream(ostream,ofstream)
+->Sequence of bytes from monitor , files etc. ->O/P
+
+cin:object of istream                   cerr&clog: object of ostream ,used for log stream and errors
+cout:object of ostream 
