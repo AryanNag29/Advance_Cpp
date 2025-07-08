@@ -1,3 +1,6 @@
+// this is << insersion operator
+// this is >> extraction operator
+
 #include <iostream>
 #include <string>
 using namespace std;
