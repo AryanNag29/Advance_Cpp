@@ -1,0 +1,276 @@
+[33mcommit e68c0b1c215ce4e54a4f2189989734ca68c7b419[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mAdvance_cpp/master[m[33m, [m[1;31mAdvance_cpp/HEAD[m[33m)[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Fri Jul 11 02:06:59 2025 +0530
+
+    IO_manipulation for int
+
+[33mcommit 2b0f42632bb8007085a16a9fc98e117f3cab2b2c[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Fri Jul 11 01:55:18 2025 +0530
+
+    IO_manipulation (std::boolalpha-noboolalpha)
+
+[33mcommit 1c2da1266031deee13d7b0dbff7a24ae1c188584[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Fri Jul 11 01:53:49 2025 +0530
+
+    IO_manipulation (std::boolalpha-noboolalpha)
+
+[33mcommit 7d3221e49fcf6adeb7b4abd779d5c2e9fcf28747[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Thu Jul 10 03:38:30 2025 +0530
+
+    Update README.md
+
+[33mcommit 3f707c2b9325ef01a4efaea02bf33178369779c5[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Wed Jul 9 01:45:24 2025 +0530
+
+    Escape Sequence
+
+[33mcommit 3a48c9fd5a0470debee60a516d8386470cdbc0f8[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Wed Jul 9 01:34:01 2025 +0530
+
+    buffering in cpp
+
+[33mcommit 1de9f7f9166337574450e23fc1f112b39266db77[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Wed Jul 9 00:51:01 2025 +0530
+
+    change in getline
+
+[33mcommit e65d408853ee78bd6397d0995c341b33eee96be4[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Wed Jul 9 00:48:28 2025 +0530
+
+    Getline function of string
+
+[33mcommit a3df2316c961d46d775592cbae9496c975040162[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Wed Jul 9 00:42:35 2025 +0530
+
+    Input_cpp
+
+[33mcommit 32522874222be69d53be9e16cd7819299b9f3b9c[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Wed Jul 9 00:13:40 2025 +0530
+
+    Update README.md
+
+[33mcommit 56e1ebd065f04428a1b49536525d409ae666abc7[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Wed Jul 9 00:13:34 2025 +0530
+
+    Update README.md
+
+[33mcommit 5807676bf4f95b2c9ab07f92d1e1490b89a69b6e[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jul 7 21:05:25 2025 +0530
+
+    Update README.md
+
+[33mcommit b661ad9f3d9344e5adc0a23ca1e3c2f536c5155a[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jul 7 21:05:19 2025 +0530
+
+    Update README.md
+
+[33mcommit d486acf42e68545f11ee086311fbd9bef6f07565[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jul 7 21:05:13 2025 +0530
+
+    Update README.md
+
+[33mcommit 9732ec2572fdbb054e2be03ab67757328cd58ecb[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jul 7 21:05:04 2025 +0530
+
+    Update README.md
+
+[33mcommit a47641850f90ee2624cdbe5f22e1e4ca481e4689[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jul 7 21:04:58 2025 +0530
+
+    Update README.md
+
+[33mcommit 7f5527a3edff131db1e57c58f7e6069ae5e57a68[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jul 7 21:04:50 2025 +0530
+
+    Update README.md
+
+[33mcommit d03188e1acec1ab011b8b9f278bedaf27d9968e9[m
+Merge: a89d643 81b7edd
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Sun Jul 6 22:56:00 2025 +0530
+
+    Output in cpp
+
+[33mcommit a89d6435999793fbf0e4f933469fa2957879144b[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Sun Jul 6 22:55:13 2025 +0530
+
+    Output in cpp
+
+[33mcommit 81b7edd86a29ff93a35a47a71d3d9322ab790b72[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Sun Jul 6 22:31:10 2025 +0530
+
+    Update README.md
+
+[33mcommit 5a23b132831103aaed2a41ede757d4d91e9eec30[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Sun Jul 6 22:31:05 2025 +0530
+
+    Update README.md
+
+[33mcommit ea84ab17457dd5906a1f9fddec8acf44ae0d5e38[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Sun Jul 6 22:30:59 2025 +0530
+
+    Update README.md
+
+[33mcommit 53f0e65f8a7c5da0334f9e57e066ee6eae39e40e[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Sun Jul 6 22:30:53 2025 +0530
+
+    Update README.md
+
+[33mcommit 895c75f176191824c282294430df0e1fb2d8584f[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Sun Jul 6 22:30:48 2025 +0530
+
+    Update README.md
+
+[33mcommit 03ec10d71e7403468306837c81bcc67bfadd254c[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Sat Jul 5 00:53:06 2025 +0530
+
+    input and output
+
+[33mcommit cd18abb6d3c2b1960acfe974f3c8bcaadd781de7[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Sat Jul 5 00:25:28 2025 +0530
+
+    Explicit conversion wtih static_cast function;
+
+[33mcommit 37269cb1d3eab9e2a5a7af616c6cbffe08dd76db[m
+Merge: a473f87 206b67c
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Sat Jul 5 00:13:53 2025 +0530
+
+    implicit conversion
+
+[33mcommit a473f87adcb4bc1afc126c0f9798010172c47a82[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Sat Jul 5 00:12:38 2025 +0530
+
+    implicit conversion
+
+[33mcommit 206b67cf92c43a6152fb45ba3250c9868b93a4e5[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Fri Jul 4 23:51:32 2025 +0530
+
+    Update README.md
+
+[33mcommit bb2315347b2fb23a386548ec6f01b246e449ad30[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Fri Jul 4 23:51:27 2025 +0530
+
+    Update README.md
+
+[33mcommit 4280ebae89cd24b7f446babf19063c35fa3bd8d2[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Fri Jul 4 23:51:22 2025 +0530
+
+    Update README.md
+
+[33mcommit 526d7689ccac34c80661b6a12935b6bb36b2bec8[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Fri Jul 4 23:51:16 2025 +0530
+
+    Update README.md
+
+[33mcommit 9b5f59eb65596a09d8be943670455736b2dc40a0[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Thu Jul 3 02:32:30 2025 +0530
+
+    Update README.md
+
+[33mcommit 88121ad0cdef9a48a3cdda3342ad13d58a2d9bc1[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Thu Jul 3 02:32:24 2025 +0530
+
+    Update README.md
+
+[33mcommit 3354747d6530cfb647cc4e7e800cf69927ea3be6[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Thu Jul 3 02:32:18 2025 +0530
+
+    Update README.md
+
+[33mcommit a9d618823b20b8040415c141f3f2a7011b1455e0[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Thu Jul 3 02:32:13 2025 +0530
+
+    Update README.md
+
+[33mcommit 90e1fc6fbdd7e9f1813d7d5a48fc435e539bd4ea[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Thu Jul 3 02:32:07 2025 +0530
+
+    Update README.md
+
+[33mcommit 4236e2a257b8113a5b570c89eb4a46dad54af401[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Wed Jul 2 01:57:27 2025 +0530
+
+    Char Litrals
+
+[33mcommit f6cc05912f5960a1bcc569a25d42a5e9400b9406[m
+Author: AryanNag29 <231030332@juitsolan.in>
+Date:   Wed Jul 2 01:24:17 2025 +0530
+
+    float suffix and
+    
+    f
+    '
+
+[33mcommit 4ba5e35088883044cbcde2c738965ca0ed423ca8[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jun 30 23:29:16 2025 +0530
+
+    Update README.md
+
+[33mcommit 15abe51d1aac924d46cd3180ba2e8759bece9ea7[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jun 30 23:29:11 2025 +0530
+
+    Update README.md
+
+[33mcommit 004014086e57dc8a3041acd4ae3f095eb5079fa6[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jun 30 23:29:05 2025 +0530
+
+    Update README.md
+
+[33mcommit 35b3777a15fcadb3c7ee944aa86654cadf5d1194[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jun 30 23:29:00 2025 +0530
+
+    Update README.md
+
+[33mcommit e07da8be1482bb184bb23032d986bf8e542637d1[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Mon Jun 30 23:28:54 2025 +0530
+
+    Update README.md
+
+[33mcommit b151bbed367bb1088328c14aec0c59d951619a23[m
+Author: Aryan Nag <147342659+AryanNag29@users.noreply.github.com>
+Date:   Sun Jun 29 13:22:48 2025 +0530
+
+    Update README.md
+
+[33mcomm
